@@ -1,3 +1,9 @@
+# Project-specific
+.idea/
+*.mp4
+*.ply
+*.pth
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
